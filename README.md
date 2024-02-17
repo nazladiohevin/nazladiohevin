@@ -34,12 +34,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>&nbsp;&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="80" height="80"/>&nbsp;&nbsp;    
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="80" height="80"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="80" height="80"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" title="Codeigniter" alt="Codeigniter" width="80" height="80"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="80" height="80"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="80" height="80"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="80" height="80"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="80" height="80"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="80" height="80"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="80" height="80"/>&nbsp;&nbsp;
 </div>
 
 <br/>
