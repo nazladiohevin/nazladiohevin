@@ -24,7 +24,7 @@
 </div>
 
 <br/>
-<h2 align="left">At present, I'm learn</h3>
+<h2 align="left">Tech</h3>
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="80" height="80"/>&nbsp;&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;&nbsp;  
