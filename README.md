@@ -49,7 +49,7 @@
 
 ## Stats
   [![GitHub Streak](https://streak-stats.demolab.com?user=nazladiohevin&theme=tokyonight&hide_border=true&border_radius=4.2&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazladiohevin&show_icons=true&theme=tokyonight&hide_border=true)  
+  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazladiohevin&show_icons=true&theme=tokyonight&hide_border=true)  -->
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazladiohevin&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/nazladiohevin/github-readme-stats)
 
 <!--
