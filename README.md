@@ -7,7 +7,6 @@
 
 <h1 align="center">
   	HI
-  <img src="https://media.giphy.com/media/UoRmF2TvMnX1caiUvx/giphy.gif" width="50"/>
 </h1>
 
 <br/>
