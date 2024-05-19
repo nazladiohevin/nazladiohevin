@@ -1,12 +1,12 @@
 
 <div id="header" align="center">
-  <img src="https://usagif.com/wp-content/uploads/2022/hqgif/chenso-man-70-makima-looks-at-you-acegif.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdmMXFxOHFldm9rN3ZpcnZoa3hvY2p4cDBkMzVhdTU4OTNxemVyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D35fOVm9gSQ91icJeR/giphy-downsized-large.gif" width="400"/>
 </div>
 
 <br/>
 
 <h1 align="center">
-  	Hello Friends, Nice To Meet Youuu
+  	HI
   <img src="https://media.giphy.com/media/UoRmF2TvMnX1caiUvx/giphy.gif" width="50"/>
 </h1>
 
